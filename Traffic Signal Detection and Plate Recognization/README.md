@@ -2,6 +2,9 @@ Traffic Violation Detection System
 Overview
 This project is a Traffic Violation Detection System that uses computer vision to detect traffic light violations, white line crossings, and license plate recognition. The system is built using Python, Flask, and OpenCV, and it integrates with a MySQL database to store violation records.
 
+![image](https://github.com/user-attachments/assets/796f5b0a-2dbb-4a89-9f71-712e2dbecf5c)
+
+
 Features
 Real-Time Video Processing: Streams video and processes frames in real-time to detect traffic violations.
 License Plate Recognition: Detects and extracts license plates using OpenCV and performs OCR (Optical Character Recognition) using Tesseract.
