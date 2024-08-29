@@ -63,6 +63,7 @@ Usage
 Live Video Feed: View the live video feed and see real-time detection of traffic violations.
 Detected License Plates: View a list of detected license plates along with the violation details.
 Issue Tickets: Use the web interface to manually issue tickets for detected violations.
+
 File Structure
 app.py: The main application file containing the Flask backend and OpenCV processing logic.
 static/: Contains static assets like CSS and JavaScript files.
@@ -70,7 +71,10 @@ templates/: Contains HTML templates for the web interface.
 requirements.txt: Lists all the Python dependencies needed to run the project.
 README.md: This documentation file.
 License
+
+
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 Acknowledgments
 OpenCV
